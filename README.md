@@ -1,1 +1,2 @@
 # eda-hotel-booking
+Using exploratory data analysis and clustering of Hotel Booking Demand dataset to discover customer behavior and analyze what can be done to increase the business performance and revenue. The data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
